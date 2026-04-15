@@ -58,5 +58,4 @@ Open the Power BI file (.pbix)
 Explore dashboards using filters and visuals
 🙌 Author
 
-Your Name
-(You can add your LinkedIn/GitHub link here)
+Jithin Jojus
